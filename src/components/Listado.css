@@ -1,0 +1,21 @@
+.data-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.data-button {
+    cursor: pointer;
+    width: 150px;
+    font-size: 1.3rem;
+    color: white;
+    background-color: black;
+    border: #EF4036 solid 3px;
+    border-radius: 10px;
+    transition: .2s;
+}
+
+.data-button:hover {
+    background-color: #EF4036;
+    color: #000;
+}
